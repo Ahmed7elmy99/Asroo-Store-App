@@ -4,13 +4,47 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Available on iOS and Android
+Clean Architecture
 
-A few resources to get you started if this is your first Flutter project:
+Bloc Pattern
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Graphql Api
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Rest APi
+
+Get IT Injection
+
+Dio & Retrofit
+
+Github
+
+Firebase Notifications
+
+Local Notification
+
+Cloud Firestore
+
+Stream
+
+Dynamic Link & Share
+
+Hive
+
+Env
+
+Animation
+
+Pagination
+
+Dark Mode
+
+Localization Change Language
+
+Response Ui
+
+WebView
+
+Native Splash Screen
+
+
