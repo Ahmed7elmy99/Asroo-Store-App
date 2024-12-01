@@ -7,6 +7,7 @@ A versatile application with two distinct interfaces: one for admins to fully co
 manage the platform, including adding and updating products in the store, and another for users to
 explore and view products with a smooth, user-friendly experience. The system aims to offer seamless
 interaction for both management and shopping.
+https://github.com/user-attachments/assets/19dfa75d-4e00-45ea-939c-40429793665c
 # Tools:
 Clean arch ,Rest Api, GraphQL , Notifications, Fire Base, Bloc
 
